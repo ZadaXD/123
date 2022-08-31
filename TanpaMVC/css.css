@@ -1,0 +1,24 @@
+body{
+    background-color: #f8f8f8;
+}
+div.container {
+    width: 1000px;
+    padding: 10px 50px 50px;
+    background-color: white;
+    margin: 20px auto;
+    box-shadow: 1px 0px -1px 0px 10px;
+}
+h1{
+    font-family: Cambria, "Times New Roman", serif;
+    clear: both;
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px black solid;
+    width: 100%;
+}
+th,td{
+    padding: 8px 15px;
+    border: 1px black solid;
+}
